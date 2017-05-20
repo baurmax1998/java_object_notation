@@ -1,0 +1,3 @@
+JON -> Java Object Notification inspired by JSON
+
+I tought it would be funny if u could dev in Java with a Object
